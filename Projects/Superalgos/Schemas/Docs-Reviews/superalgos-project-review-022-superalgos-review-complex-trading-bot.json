@@ -1,0 +1,19 @@
+{
+    "review": "Superalgos Project Review",
+    "pageNumber": 22,
+    "type": "Superalgos Review - Complex Trading Bot",
+    "definition": {
+        "text": "Write a summary for this review page."
+    },
+    "paragraphs": [
+        {
+            "style": "Text",
+            "text": "Superalgos is a very complex trading bot with many features(I was amased about the number of functionality that the bot has and the fact that it`s opensource. The contributors did a great job). At first glance it can be overwhelming but the tutorials and the documentation contains all the info needed to be able to use the bot",
+            "updated": 1624642757166
+        },
+        {
+            "style": "Text",
+            "text": "stefan-b10"
+        }
+    ]
+}
